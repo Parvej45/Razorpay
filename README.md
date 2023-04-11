@@ -19,4 +19,4 @@ The Razorpay landing page features a clean and modern design, with a user-friend
 Using Tailwind CSS, the design of the page is easily customizable, and the Vite development server makes it easy to quickly iterate on changes.
 
 # Conclusion
-This landing page was created using a combination of HTML, Tailwind CSS, Vite, and Node, resulting in a visually appealing and functional page that effectively showcases Razorpay's payment solutions.
+This landing page was created using a combination of HTML, Tailwind CSS, Vite, and Node, resulting in a visually appealing and functional page that effectively showcases Razorpay's payment solutions.![screencapture-localhost-5173-2023-04-11-14_55_49](https://user-images.githubusercontent.com/97740459/231128354-0e86a6b2-ecd4-4689-a125-ec6856c5d23f.png)
